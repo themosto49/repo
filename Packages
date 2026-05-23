@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: ai.paisseon.cydown
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mosto49
+Depends: firmware (<13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/ai.paisseon.cydown_7.1.6_iphoneos-arm.deb
+Size: 2708820
+MD5sum: 9902bcff19cdc0a3f83a247268df9534
+Description: This is CyDown.
+Name: CyDown
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://themosto49.github.io/repo/depictions/?p=ai.paisseon.cydown
+
